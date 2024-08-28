@@ -1,4 +1,5 @@
 function bowling() {
+  console.log('bowling!');
   return true;
 }
 
